@@ -76,11 +76,17 @@ Everything profiled for Agile Today is published on APIs.io rather than in this 
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agile-today-org-mcp.yml](https://apis.io/servers/agile-today-org/agile-today-org-mcp-yml/)
+
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agile Today Org Domain Security](https://apis.io/security/agile-today-org/agile-today-org-domain-security/)
+- [Agile Today Domain Security](https://apis.io/security/agile-today-org/agile-today-org-domain-security/)
 
 ## Where to find this API
 
@@ -96,18 +102,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 15.0** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 16.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.3 |
+| Discoverability | 55.0 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 31.0 |
-| Access clarity | 21.1 |
+| Access clarity | 29.8 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 3.4** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -132,8 +138,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agile-today-org/](https://apis.io/providers/agile-today-org/).
 
